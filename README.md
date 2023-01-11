@@ -1,3 +1,3 @@
 # Machine-Learning-R-
-- The repository has the Machine Learning projects created with R programming language 
+- This repository contains Machine Learning projects developed with the R programming language.
 
